@@ -1,0 +1,21 @@
+# KiCad lock files
+*.lck
+~*.kicad_pcb
+~*.kicad_sch
+~*.kicad_pro
+
+# KiCad auto-save and backups
+*-backups/
+*.kicad_pcb-bak
+*.kicad_sch-bak
+_autosave-*
+
+# KiCad local settings
+*.kicad_prl
+
+# OS
+.DS_Store
+Thumbs.db
+
+# History (KiCad file history plugin)
+.history/
