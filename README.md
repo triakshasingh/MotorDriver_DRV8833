@@ -99,6 +99,22 @@ The design prioritizes simplicity and reliability: power decoupling is handled c
 
 ---
 
+## Status
+✅ Schematic complete  
+✅ Layout complete  
+✅ DRC passed (0 violations, 0 unconnected)  
+⬜ Fabricated  
+⬜ Tested  
+
+---
+
+## What I Learned
+- IC footprint integration and decoupling cap placement
+- Copper zone clearance tuning for dense SMD layouts
+- H-bridge motor control theory and PWM interface
+
+---
+
 ## Author
 
 **Triaksha Singh**  
