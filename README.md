@@ -73,8 +73,8 @@ The design prioritizes simplicity and reliability: power decoupling is handled c
 |---|---|---|
 | U1 | DRV8833PWP | Dual H-bridge motor driver, HTSSOP-16 |
 | C1 | 0.1 µF | Decoupling capacitor (MLCC) |
-| C2 | 10 µF | Bulk decoupling capacitor |
-| C3 | — | Additional bulk/bypass capacitor |
+| C2 | 2.2 µF | Bulk decoupling capacitor |
+| C3 | 10 µF | Additional bulk/bypass capacitor |
 | R1 | 4.7 kΩ | Pull-up / current-limiting resistor |
 | D1 | LED | Power indicator |
 | J1 | Conn_01x06 | Control input connector |
