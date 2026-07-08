@@ -103,8 +103,6 @@ The design prioritizes simplicity and reliability: power decoupling is handled c
 ✅ Schematic complete  
 ✅ Layout complete  
 ✅ DRC passed (0 violations, 0 unconnected)  
-⬜ Fabricated  
-⬜ Tested  
 
 ---
 
